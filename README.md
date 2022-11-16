@@ -1,4 +1,6 @@
-# Week 15: Project Labyrinth
+# Project Joanna and Nadia's labyrinth
+
+Weekly project for Technigo's bootcamp, week 15: build a labyrinth app
 
 This week's project was to build a labyrinth app posting to an API using thunks and displaying the response in an interactive frontend. This was a pair programming project.
 
