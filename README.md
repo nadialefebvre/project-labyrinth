@@ -1,4 +1,4 @@
-# Project Joanna and Nadia's labyrinth
+# Project Labyrinth
 
 Weekly project for Technigo's bootcamp, week 15: build a labyrinth app
 
