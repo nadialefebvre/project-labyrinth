@@ -33,7 +33,7 @@ const labyrinth = createSlice({
 export const startGame = () => {
   return (dispatch, getState) => {
     dispatch(ui.actions.setLoading(true))
-    fetch('https://labyrinth-technigo.herokuapp.com/start', {
+    fetch('https://labyrinth.technigo.io/start', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ username: `${getState().labyrinth.username}` })
@@ -49,7 +49,7 @@ export const startGame = () => {
 export const continueGame = (direction) => {
   return (dispatch, getState) => {
     dispatch(ui.actions.setLoading(true))
-    fetch('https://labyrinth-technigo.herokuapp.com/action', {
+    fetch('https://labyrinth.technigo.io/action', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
