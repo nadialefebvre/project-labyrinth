@@ -15,3 +15,7 @@ If we had more time, we would have put more time in creating more reusable style
 Project deployed here: [Joanna & Nadia's Labyrinth](https://labyrinth-joanna-and-nadia.netlify.app/)
 
 Made by Joanna Ringqvist and Nadia Lefebvre
+
+<div align="center">
+  <img src="screenshot.jpg" />
+</div>
